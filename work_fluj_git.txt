@@ -1,0 +1,4 @@
+1. git add (agregar el archivo a la memoria del computador) ->computador
+           (se guardan los cambios en etapa stage)
+2. git commit(revisar el ensayo y mandar solo lo importante) -> pasan los archivos q tuvieron cambios
+3. git push (enviar al servidor *github*)
